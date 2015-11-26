@@ -5,14 +5,12 @@ date:   2015-11-24
 tags: movies starwars
 categories: movies
 ---
-Let's get this out of the way. I hate  Jar Jar Binks. He is annoying, clumsy and useless.
-Surprisingly, I forgot how big a role he plays in The Phantom Menace.
+{% include post-image.html url="/assets/img/movies/tpm-jarjar.jpeg" description="Me sa hate myself" %}
+I hate  Jar Jar Binks. He is annoying, clumsy and useless. I completely forgot how big a role he plays in The Phantom Menace.
 
-{% include post-image.html url="/assets/img/tpm-jarjar.jpeg" description="Me sa hate myself" %}
 Maybe it is because I was so enamored with the film
 when it first came out. The first trailer, foggy mysterious scenes filled
-with weird aliens walking through the mist, is etched into my memory. I remember
-the news stations doing small featurettes, and everyone going bonkers (myself
+with weird aliens walking through the mist, is etched into my memory. I remember news stations doing small featurettes, and everyone going bonkers (myself
 included). I remember seeing Darth Mauls dual lightsaber and how my knees buckled
 because I couldn't handle the awesomeness. Much like how A New Hope was the first
 taste to alot of people the late 70's, The Phantom Menace was my true entrance to Star Wars
@@ -25,27 +23,28 @@ for the next big chapter in Star Wars. How does it hold up to my initial viewing
 over 15 years ago? Well...I hate Jar Jar Binks. Jar Jar almost ruins the entire
 movie. Almost!
 
-For such an epic franchise, the movie began with what seems like a relatively
+For such an epic franchise, the movie began with a relatively
 insignificant story. I never really felt engaged with the trade federations blockades
 and clumsy droid soldiers. The introduction of the Jedi saved what
-would have been a pretty bland intro. It helps that Ewan Mcgregor(Obi Wan Kenobi) and
+would have been a pretty bland debut. It helps that Ewan Mcgregor(Obi Wan Kenobi) and
 Liam Neeson(Qui Gon Jinn) are both in the movie.
 
-Obi Wan and Qui Gon's trip to the Gungan city appeared to exist only to
+Obi Wan and Qui Gon's initial trip to the Gungan city appeared to exist only to
 validate the existence of Jar Jar Binks. Jar Jar was infuriating to watch. He was clearly
 there for comic relief, but I sometimes wondered if George Lucas simply wanted to play
 with his big expensive cgi toys. An entire city of cgi Jar Jar look alikes seemed to
-confirm this assumption. The trip out of the city, while more
-interesting, was one big unnecessary action sequence. These combined sequences
-were probably my least favorite of the movie.
+confirm my assumption. The trip out of the city, while more
+interesting, was one big unnecessary action sequence. These were probably my least favorite sequences of the movie.
 
 Things got significantly better when the Jedi met Queen Amidala. Natalie Portman
 did a commendable job portraying the queen. Her costumes are also worthy of note.
 They are superbly done and sometimes felt more alien than the actual aliens around her(Jar Jar Binks). The
 droid invasion and consequently, our heros fleeing to Tatooine sped up the pace of the story.
 
+>Amidalas costume and makeup were compelling
+
 For as good a job Portman did as Amidala, Jake Lloyd did the opposite as
-Anakin. He really was miscast. Anakin is probably the most complex character
+Anakin. He really was miscast. Anakin is supposedly the most complex character
 in all of Star Wars and we got Jake Lloyd and Hayden Christensen to play him...
 Bummer. To his credit, Lloyd came across as a better actor than Christensen did
 in the later movies.
@@ -62,8 +61,9 @@ flowed together alot better than the earlier parts of the film. The movies' poli
 felt less believable than the action sets, but this was not shocking after recalling how bad
 episode 2 and its political mess was.
 
+{% include post-image.html url="/assets/img/movies/tpm-maul.jpg" description="AWESOME!!!" %}
 The final encounter with Darth Maul was far and away the best part of the entire film.
-I could recommend the film for this scene alone. It had what, in my opinion, is
+I could recommend the film for this scene alone. It had, in my opinion, what is
 still the best Jedi duel in Star Wars. Obi Wan waiting impatiently
 for the energy barrier to turn so he can kick the crap out of Darth Maul was fantastic.
 It was believable action storytelling as well as convincing special effects.
@@ -75,4 +75,4 @@ movie feel more like Star Wars. The introduction of Obi wan and his master, the 
 Darth Maul combined with exciting pod racing overcame a bland performance by the trilogy's main
 character as well as the completely useless Jar Jar Binks.
 
-7/10
+{% include rating.html score="7" %}

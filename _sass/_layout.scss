@@ -1,9 +1,12 @@
 //Variables
-$bkg-gray: #f3f3f3;
+$bkg-gray: #f7f7f7;
 $light-gray: #cacaca;
 $gray-border: #dedede;
-$base-text: #8e8e8e;
+$base-text: #616161;
 $tag-blue: #0F79BB;
+$tag-burgundy: #774444;
+$image-caption: #a2a2a2;
+$blockquotes: #4384d8;
 
 //Custom
 * {
@@ -21,10 +24,11 @@ p {
 }
 
 span {
-  &.movies {
+  &.movies, &.ice-cream {
     color: #ffffff;
     padding: 2px 6px;
     font-size: 12px;
+    font-weight: bold;
     margin-right: 10px;
     border-radius: 3px;
   }
@@ -32,13 +36,44 @@ span {
   &.movies {
     background: $tag-blue;
   }
+
+  &.ice-cream {
+    background: $tag-burgundy;
+  }
 }
 
 table.image {
-  color: $light-gray;
+  color: $image-caption;
   font-style: italic;
   font-size: 14px;
+  margin: 0 0 30px;
+
+  caption {
+    margin-top: 10px;
+  }
+}
+
+blockquote {
   margin: 30px 0;
+  border-color: $blockquotes;
+
+  p {
+    color: $blockquotes;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: normal;
+  }
+}
+
+.rating {
+  font-weight: bold;
+  font-size: 20px;
+  color: $blockquotes;
+
+  .score{
+    font-size: 50px;
+    margin-right: -5px;
+  }
 }
 
 
@@ -54,7 +89,7 @@ table.image {
 
     .wrapper {
       padding: 0;
-      max-width: calc(880px - (30px * 2))
+      max-width: calc(840px - (30px * 2))
     }
 }
 
@@ -83,8 +118,10 @@ table.image {
     }
 
     .page-link {
-        color: $text-color;
         line-height: $base-line-height;
+        color: $base-text;
+        font-size: 12px;
+        font-weight: bold;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -149,8 +186,7 @@ table.image {
  */
 .site-footer {
     background: $bkg-gray;
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 10px 0;
 }
 
 .footer-heading {
@@ -226,12 +262,6 @@ table.image {
 .page-content {
     background: $bkg-gray;
     padding: $spacing-unit 0;
-
-    .wrapper {
-      background: #ffffff;
-      border: 1px solid $gray-border;
-      padding: 40px 40px 9px;
-    }
 }
 
 .page-heading {
@@ -239,18 +269,18 @@ table.image {
 }
 
 .post-list {
-    margin: -40px;
     list-style: none;
+    margin: 0;
 
     > li {
         margin-bottom: $spacing-unit;
-        padding: 40px;
         border-bottom: 1px solid $gray-border;
     }
 
     h2, a {
-      font-size: 20px;
-      margin-bottom: 5px;
+      font-size: 26px;
+      margin-bottom: 6px;
+      line-height: 24px;
     }
 }
 
@@ -259,9 +289,13 @@ table.image {
     color: $light-gray;
 }
 
+.meta-wrapper {
+  margin-bottom: 10px;
+}
+
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 26px;
 }
 
 .post-link,  .post-link:visited{
@@ -281,6 +315,7 @@ table.image {
     font-size: 28px;
     letter-spacing: -1px;
     line-height: 1;
+    margin-bottom: 5px;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -299,7 +334,7 @@ table.image {
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 20px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
