@@ -20,4 +20,4 @@ The speculoo chunks are not as strong as the Biscoff butter, but that works out 
 ### Buy Again?
 Already have
 
-{% include rating.html score="8" %}
+{% include rating.html score="8.5" %}
