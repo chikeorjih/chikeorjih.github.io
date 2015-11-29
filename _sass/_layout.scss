@@ -76,7 +76,6 @@ blockquote {
   }
 }
 
-
 /**
  * Site header
  */
@@ -106,6 +105,10 @@ blockquote {
     &,
     &:visited {
         color: $grey-color-dark;
+    }
+
+    @include media-query($on-palm) {
+      font-size: 24px;
     }
 }
 
@@ -281,6 +284,10 @@ blockquote {
       font-size: 26px;
       margin-bottom: 6px;
       line-height: 24px;
+
+      @include media-query($on-palm) {
+        font-size: 22px;
+      }
     }
 }
 
@@ -320,6 +327,10 @@ blockquote {
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+
+    @include media-query($on-palm) {
+      font-size: 22px;
+    }
 }
 
 .post-content {
@@ -338,6 +349,10 @@ blockquote {
 
         @include media-query($on-laptop) {
             font-size: 22px;
+        }
+
+        @include media-query($on-palm) {
+          font-size: 18px;
         }
     }
 
