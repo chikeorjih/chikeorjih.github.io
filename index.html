@@ -6,12 +6,12 @@ layout: default
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      <li class={{ post.categories }}>
+      <li class={{ post.categories | split: ' ' | join: '-' | downcase | remove: '["' | remove: '"]'}}>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="meta-wrapper">
-          <span class={{ post.categories }}>{{ post.categories }}</span>
+          <span class={{ post.categories | split: ' ' | join: '-' | downcase | remove: '["' | remove: '"]'}}>{{ post.categories }}</span>
           <span class="post-meta"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <span>
