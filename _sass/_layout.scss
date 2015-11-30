@@ -7,6 +7,7 @@ $tag-blue: #0F79BB;
 $tag-burgundy: #774444;
 $image-caption: #a2a2a2;
 $blockquotes: #4384d8;
+$link-color: #2a7ae2;
 
 //Custom
 * {
@@ -180,6 +181,29 @@ blockquote {
             margin-left: 20px;
         }
     }
+}
+
+.pagination {
+  text-align: center;
+
+  span, a, em {
+    margin: 0 5px;
+    font-style: normal;
+    font-size: 14px;
+  }
+
+  span {
+    color: $base-text;
+  }
+
+  em {
+    font-weight: bold;
+    color: #000000;
+  }
+
+  a {
+    color: $link-color;
+  }
 }
 
 

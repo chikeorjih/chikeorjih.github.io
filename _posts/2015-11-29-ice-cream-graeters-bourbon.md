@@ -3,7 +3,8 @@ layout: post
 title:  "Review: Graeter's Bourbon Pecan Chocolate Chip"
 date:   2015-11-29
 tags: ice-cream, graeters
-categories: ice-cream
+categories:
+- Ice Cream
 ---
 {% include post-image.html url="/assets/img/ice_cream/graeters-bourbon1.jpg" description="Graeter's Bourbon Pecan Chocolate Chip" %}
 

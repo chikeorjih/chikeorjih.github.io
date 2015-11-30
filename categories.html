@@ -1,24 +1,22 @@
 ---
-layout: default
+layout: page
+title: Categories
+permalink: /categories/
 ---
 
 <div class="home">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li class={{ post.categories }}>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <div class="meta-wrapper">
-          <span class={{ post.categories }}>{{ post.categories }}</span>
-          <span class="post-meta"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}</span>
-        </div>
-        <span>
-          {{ post.excerpt }}
-        </span>
-      </li>
+  {% for category in site.categories %}
+    <h3 name="{{ category | first }}">{{ category | first }}</h3>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        {% if post.url %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
-  </ul>
+    </ul>
+  {% endfor %}
 
 </div>

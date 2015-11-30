@@ -8,6 +8,10 @@
 # Site settings
 title: It Ain't Easy Being Cheesy
 description: Random thoughts by Chike Orjih.
+paginate: 5
 
 # Build settings
 markdown: kramdown
+
+# gems
+gems: [jekyll-paginate]
