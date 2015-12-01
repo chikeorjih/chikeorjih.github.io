@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
-      <span class={{ page.categories }}>{{ page.categories }}</span>
+      <span class={{ page.categories | split: ' ' | join: '-' | downcase | remove: '["' | remove: '"]'}}>{{ page.categories }}</span>
       <i class="fa fa-calendar"></i>
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
     </p>
@@ -17,3 +17,8 @@ layout: default
   </div>
 
 </article>
+<div class="comments">
+  <h3> Comments</h3>
+  <a class="muut" href="https://muut.com/i/blog-chikeorjih-com/comments" type="dynamic">blog-chikeorjih-com</a>
+  <script src="//cdn.muut.com/1/moot.min.js"></script>
+</div>

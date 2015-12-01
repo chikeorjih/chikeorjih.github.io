@@ -333,6 +333,22 @@ blockquote {
   color: black;
 }
 
+.comments {
+  border-top: 1px solid $gray-border;
+
+  h3 {
+    color: $light-gray;
+    margin: 20px 0 0;
+  }
+}
+
+#moot-logo {
+  padding: 0 !important;
+}
+
+.m-form {
+  margin: 0  !important;
+}
 
 
 /**
