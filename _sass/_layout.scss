@@ -386,6 +386,7 @@ blockquote {
 
     h3 {
         font-size: 20px;
+        margin: 10px 0;
 
         @include media-query($on-laptop) {
             font-size: 22px;

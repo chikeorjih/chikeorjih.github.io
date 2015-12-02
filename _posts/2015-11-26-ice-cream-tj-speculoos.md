@@ -2,9 +2,12 @@
 layout: post
 title:  "Review: Trader Joes Speculoos Cookie Butter Ice Cream"
 date:   2015-11-26
-tags: ice-cream, trader joes
+tags:
+- ice-cream
+- trader joes
 categories:
-- Ice Cream
+- ice-cream
+post-type: Ice Cream
 ---
 {% include post-image.html url="/assets/img/ice_cream/tj-speculoos1.jpg" description="Trader Joes Speculoos Cookie Butter Ice Cream" %}
 
@@ -18,7 +21,7 @@ I thought I would find the vanilla base boring, but it turned out well. It is de
 ### Flavor
 I haven't had Traders Joe's Speeculo spread before but the speculoo chunks are not as sweet as Biscoff's version. It all works out though, I think if they were that strong it might lead to too much of a sugar rush. The base compliments the sweet ginger-bready taste of the cookie butter. It is a simple but solid combination of both flavors.
 
-### Buy Again?
+### Going back for more?
 Already have
 
 {% include rating.html score="8.5" %}

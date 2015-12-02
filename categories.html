@@ -7,7 +7,7 @@ permalink: /categories/
 <div class="home">
 
   {% for category in site.categories %}
-    <h3 name="{{ category | first }}">{{ category | first }}</h3>
+    <h3>{{ category | first | replace: '-', ' ' | capitalize }}</h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}

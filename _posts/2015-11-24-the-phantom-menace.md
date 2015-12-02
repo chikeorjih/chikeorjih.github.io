@@ -3,7 +3,8 @@ layout: post
 title:  "The Phantom Menace Re-review"
 date:   2015-11-24
 tags: movies starwars
-categories: Movies
+categories: movies
+post-type: Movies
 ---
 {% include post-image.html url="/assets/img/movies/tpm-jarjar.jpeg" description="Me sa hate myself" %}
 I hate  Jar Jar Binks. He is annoying, clumsy and useless. I completely forgot how big a role he plays in The Phantom Menace.

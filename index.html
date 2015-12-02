@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="home">
 
   <ul class="post-list">
@@ -11,7 +10,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="meta-wrapper">
-          <span>{{ post.categories }}</span>
+          <span class="{{ post.categories }}">{{ post.post-type }}</span>
           <span class="post-meta"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <span>
