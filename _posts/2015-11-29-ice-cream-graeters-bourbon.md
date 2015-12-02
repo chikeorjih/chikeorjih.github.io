@@ -14,8 +14,8 @@ post-type: Ice Cream
 ### First Impression
 I got this guy at Dierbergs expecting it to be chocolate. Well, I was completely off. It has a ton of mixins, which was a pleasant surprise.
 
-### Texture
 {% include post-image.html url="/assets/img/ice_cream/graeters-bourbon2.jpg" description="Lots of stuff going on here" %}
+### Texture
 The texture of the base was decent. It was smooth but not a smooth and creamy as the [Coolhaus Molten Chocolate Cake]({% post_url 2015-11-29-ice-cream-coolhaus-molten-cake %}). The amount of stuff thrown in breaks up the base quite a bit so that probably help interms of smoothness
 
 {% include post-image.html url="/assets/img/ice_cream/graeters-bourbon3.jpg" description="Hmm, is that vanilla?" %}

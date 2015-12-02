@@ -27,11 +27,12 @@ p {
 span {
   &.movies, &.ice-cream {
     color: #ffffff;
-    padding: 2px 6px;
-    font-size: 12px;
+    padding: 4px 10px;
+    font-size: 10px;
     font-weight: bold;
     margin-right: 10px;
     border-radius: 3px;
+    text-transform: uppercase;
   }
 
   &.movies {
@@ -47,7 +48,7 @@ table.image {
   color: $image-caption;
   font-style: italic;
   font-size: 14px;
-  margin: 0 0 30px;
+  margin: 0 0 20px;
 
   caption {
     margin-top: 10px;
@@ -355,7 +356,7 @@ blockquote {
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 20px;
 }
 
 .post-title {
@@ -386,7 +387,7 @@ blockquote {
 
     h3 {
         font-size: 20px;
-        margin: 10px 0;
+        margin: 20px 0 5px;
 
         @include media-query($on-laptop) {
             font-size: 22px;

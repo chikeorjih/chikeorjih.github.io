@@ -14,8 +14,8 @@ post-type: Ice Cream
 ### First Impression
 This little guy was expensive. I decided to go out on a limb and buy this $7.50 pint while shopping at Fields Foods. My expectations were pretty high so I was a little dissapointed to open up the lid and see a small amount of ice crystals on top.
 
-### Texture
 {% include post-image.html url="/assets/img/ice_cream/coolhaus-molten2.jpg" description="A little icy on top" %}
+### Texture
 The texture was smooth. Probably one of the smoother ice creams I have tasted recently. There are little chunks of cake mixed in but, unfortunately, the quantity was very small. I also couldnt really find the supposed swirl.
 
 {% include post-image.html url="/assets/img/ice_cream/coolhaus-molten3.jpg" description="Where is my cake?" %}
