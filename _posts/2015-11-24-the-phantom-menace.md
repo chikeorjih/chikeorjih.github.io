@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Phantom Menace Re-review"
+title:  "Review: The Phantom Menace Rewatch"
 date:   2015-11-24
 tags: movies starwars
 categories: movies
