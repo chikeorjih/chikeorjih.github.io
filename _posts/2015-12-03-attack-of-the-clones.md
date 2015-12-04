@@ -25,8 +25,8 @@ Obi Wan's quest to find the clone army was my only respite in this film. It cont
 >Lost a planet, Master Obi-Wan has. How embarrassing. How embarrassing!
 
 Everything went down hill from here culminating in the biggest display of green screen technology in modern film. It's hard to blame the actors (except Hayden Christensen). They were constantly asked to stare and talk to markers and empty space as if they were living beings. Even good actors look goofy when asked to do this. It didn't help that they did this over and over again. There were scenes where small rooms were created with CGI for no apparent reason. Why not build the room?
-{% include post-image.html url="/assets/img/movies/aotc3.jpg" description="Lets play imaginary swords!" %}
 
+{% include post-image.html url="/assets/img/movies/aotc3.jpg" description="Lets play imaginary swords!" %}
 Perhaps the biggest failure was the completely asinine lightsaber duel between Count Dooku and Yoda. I can understand what Lucas was trying to do here: show everyone just how much of a bad mama jamma Yoda truly was. He failed. Yoda was supposed to be THE master. The little green alien that was as close to the force as anyone can be. He was above hand to hand combat and light saber duels.
 
 >It is obvious that this contest cannot be decided by our knowledge of the Force... but by our skills with a lightsaber - Dooku
