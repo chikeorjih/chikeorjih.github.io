@@ -14,7 +14,9 @@ layout: default
           <span class="post-meta"><i class="fa fa-calendar"></i> {{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <span>
-          {{ post.excerpt }}
+          <a class="post-excerpt" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.excerpt }}
+          </a>
         </span>
       </li>
     {% endfor %}
