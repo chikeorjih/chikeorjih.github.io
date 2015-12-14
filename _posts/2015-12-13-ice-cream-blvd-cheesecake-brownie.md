@@ -20,7 +20,7 @@ It is creamy, I'll give it that but where are my brownie bits? Umm...I kept digg
 
 {% include post-image.html url="/assets/img/ice_cream/blvd-cheescake3.jpg" description="Bleh" %}
 ### Flavor
-There is an artificial note to this ice cream. It almost tastes like "light" ice cream. The little fudge bits also tasted bitter and artificial. I didn't get any cheesecake flavor this ice cream. All in all, a disappointment.
+There is an artificial note to this ice cream. It almost tastes like "light" ice cream. The little fudge bits also tasted bitter and artificial. I didn't get any cheesecake flavor from this ice cream. All in all, a disappointment.
 
 
 ### Going back for more?
