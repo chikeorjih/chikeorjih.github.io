@@ -22,6 +22,9 @@ I thought I would find the vanilla base boring, but it turned out well. It is de
 I haven't had Traders Joe's Speeculo spread before but the speculoo chunks are not as sweet as Biscoff's version. It all works out though, I think if they were that strong it might lead to too much of a sugar rush. The base compliments the sweet ginger-bready taste of the cookie butter. It is a simple but solid combination of both flavors.
 
 ### Going back for more?
-Already have
+Already have.
 
-{% include rating.html score="8.5" %}
+*UPADTE: updated score from 8.5. to 9*
+After reviewing the [Ben & Jerry's Speculoos]({% post_url 2015-12-15-ice-cream-bj-speculoos-core %}), I decided this guy needs an update.
+
+{% include rating.html score="9" %}
