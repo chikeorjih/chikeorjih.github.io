@@ -25,4 +25,4 @@ This guy actually has two base flavors; vanilla and caramel. I didn't find the c
 ### Going back for more?
 Probably not. The Trader Joe's version is better.
 
-{% include rating.html score="7.5" %}
+{% include rating.html score="8" %}

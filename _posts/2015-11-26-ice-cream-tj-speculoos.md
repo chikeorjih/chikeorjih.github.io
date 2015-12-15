@@ -24,7 +24,4 @@ I haven't had Traders Joe's Speeculo spread before but the speculoo chunks are n
 ### Going back for more?
 Already have.
 
-*UPADTE: updated score from 8.5. to 9*
-After reviewing the [Ben & Jerry's Speculoos]({% post_url 2015-12-15-ice-cream-bj-speculoos-core %}), I decided this guy needs an update.
-
-{% include rating.html score="9" %}
+{% include rating.html score="8.5" %}
