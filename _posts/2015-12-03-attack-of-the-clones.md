@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Attack of the Clones Rewatch"
+title:  "Attack of the Clones Rewatch"
 date:   2015-12-03
 tags: movies starwars
 categories: movies

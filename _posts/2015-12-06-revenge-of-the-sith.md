@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Revenge of the Sith Rewatch"
+title:  "Revenge of the Sith Rewatch"
 date:   2015-12-06
 tags: movies starwars
 categories: movies
