@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Ben & Jerry's Speculoos Cookie Core"
+title:  "Ben & Jerry's Speculoos Cookie Core Review"
 date:   2015-12-15
 tags:
 - ice-cream

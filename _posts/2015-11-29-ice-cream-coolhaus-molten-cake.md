@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Coolhaus Chocolate Molten Cake"
+title:  "Coolhaus Chocolate Molten Cake Review"
 date:   2015-11-29
 tags:
 - ice-cream

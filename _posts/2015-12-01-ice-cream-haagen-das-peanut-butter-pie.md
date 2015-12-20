@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Haagen Das Peanut Butter Pie"
+title:  "Haagen Das Peanut Butter Pie Review"
 date:   2015-12-01 00:01:00 -0600
 tags:
 - ice-cream

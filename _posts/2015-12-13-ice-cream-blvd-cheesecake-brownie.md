@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: BLVD Cheesecake Brownie"
+title:  "BLVD Cheesecake Brownie Review"
 date:   2015-12-13 00:01:00 -0600
 tags:
 - ice-cream

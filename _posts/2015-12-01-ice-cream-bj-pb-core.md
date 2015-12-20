@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Ben & Jerry's Peanut Buttah Cookie Core"
+title:  "Ben & Jerry's Peanut Buttah Cookie Core Review"
 date:   2015-12-01 00:02:00 -0600
 tags:
 - ice-cream

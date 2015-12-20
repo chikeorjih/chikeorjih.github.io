@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Trader Joes Speculoos Cookie Butter Ice Cream"
+title:  "Trader Joes Speculoos Cookie Butter Ice Cream Review"
 date:   2015-11-26
 tags:
 - ice-cream
