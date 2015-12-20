@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 8.5
 ---
 {% include post-image.html url="/assets/img/ice_cream/tj-speculoos1.jpg" description="Trader Joes Speculoos Cookie Butter Ice Cream" %}
 

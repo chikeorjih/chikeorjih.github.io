@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 6
 ---
 {% include post-image.html url="/assets/img/ice_cream/coolhaus-molten1.jpg" description="Coolhaus Chocolate Molten Cake" %}
 

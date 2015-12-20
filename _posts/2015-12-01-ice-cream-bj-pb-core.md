@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 9
 ---
 {% include post-image.html url="/assets/img/ice_cream/bj-pb-core1.jpg" description="Ben & Jerry's Peanut Buttah Cookie Core" %}
 

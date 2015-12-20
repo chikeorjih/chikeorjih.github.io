@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 3.5
 ---
 {% include post-image.html url="/assets/img/ice_cream/blvd-cheescake1.jpg" description="BLVD Cheesecake Brownie" %}
 

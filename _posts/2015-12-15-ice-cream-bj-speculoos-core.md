@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 8
 ---
 {% include post-image.html url="/assets/img/ice_cream/bj-speculoos-core1.jpg" description="Ben & Jerry's Speculoos Cookie Core" %}
 

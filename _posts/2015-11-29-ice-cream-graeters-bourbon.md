@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 8.5
 ---
 {% include post-image.html url="/assets/img/ice_cream/graeters-bourbon1.jpg" description="Graeter's Bourbon Pecan Chocolate Chip" %}
 

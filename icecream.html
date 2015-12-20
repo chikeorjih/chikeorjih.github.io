@@ -1,0 +1,14 @@
+---
+layout: page
+title: Ice Cream
+permalink: /icecream/
+---
+<div>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.categories contains 'ice-cream' %}
+        <li><span class="post-rating">{{post.rating}}</span><span>{{post.title}}</span></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

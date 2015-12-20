@@ -8,6 +8,7 @@ tags:
 categories:
 - ice-cream
 post-type: Ice Cream
+rating: 8.5
 ---
 {% include post-image.html url="/assets/img/ice_cream/haagen-das-peanut-butter1.jpg" description="Haagen Das Peanut Butter Pie" %}
 
