@@ -3,12 +3,18 @@ layout: page
 title: Ice Cream
 permalink: /icecream/
 ---
+{% assign icecream-posts = site.array %}
+{% for post in site.posts %}
+  {% if post.categories contains 'ice-cream' %}
+    {% assign icecream-posts = icecream-posts | push: post %}
+  {% endif %}
+{% endfor %}
+
 <div>
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains 'ice-cream' %}
-        <li><span class="post-rating">{{post.rating}}</span><span>{{post.title}}</span></li>
-      {% endif %}
+    {% assign sorted-icecream-posts = icecream-posts | sort: 'rating' | reverse %}
+    {% for post in sorted-icecream-posts %}
+      <li><a href={{post.url}}><span class="post-rating">{{post.rating}}</span><span>{{post.title}}</span></a></li>
     {% endfor %}
   </ul>
 </div>
