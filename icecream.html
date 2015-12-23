@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ice Cream
+title: Ice Cream Reviews
 permalink: /icecream/
 ---
 {% assign icecream-posts = site.array %}
@@ -10,11 +10,17 @@ permalink: /icecream/
   {% endif %}
 {% endfor %}
 
-<div>
-  <ul>
-    {% assign sorted-icecream-posts = icecream-posts | sort: 'rating' | reverse %}
-    {% for post in sorted-icecream-posts %}
-      <li><a href={{post.url}}><span class="post-rating">{{post.rating}}</span><span>{{post.title}}</span></a></li>
-    {% endfor %}
-  </ul>
+<div class="category-page">
+  <h3>Top Rated</h3>
+  <table>
+    <tbody>
+      {% assign sorted-icecream-posts = icecream-posts | sort: 'rating' | reverse %}
+      {% for post in sorted-icecream-posts %}
+      <tr>
+        <td class={{post.rating}}><span class="post-rating">{{post.rating}}</span></td>
+        <td><a href={{post.url}}>{{post.title}}</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </div>

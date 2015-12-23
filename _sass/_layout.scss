@@ -9,6 +9,9 @@ $tag-orange: #DA8321;
 $image-caption: #a2a2a2;
 $blockquotes: #4384d8;
 $link-color: #2a7ae2;
+$rating-green: #69BD5B;
+$rating-yellow: #CCC56D;
+$rating-red: #DA7C44;
 
 //Custom
 * {
@@ -88,6 +91,52 @@ blockquote {
     text-decoration: none;
   }
 }
+
+// Category pages
+.post-content .category-page h3 {
+  margin-top: 20px;
+}
+
+.category-page {
+  ul, ol {
+    list-style: none;
+    margin: 0;
+  }
+
+  li {
+    margin: 10px 0;
+  }
+
+  .post-rating {
+    background: $tag-blue;
+    border-radius: 15px;
+    color: white;
+    display: inline-block;
+    width: 32px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 0;
+    margin-right: 10px;
+  }
+
+  [class^='8'] .post-rating, [class^='9'] .post-rating {
+    background: $rating-green;
+  }
+
+  [class^='6'] .post-rating, [class^='7'] .post-rating {
+    background: $rating-yellow;
+  }
+
+  [class^='1'] .post-rating,
+  [class^='2'] .post-rating,
+  [class^='3'] .post-rating,
+  [class^='4'] .post-rating,
+  [class^='5'] .post-rating {
+    background: $rating-red;
+  }
+}
+
 
 /**
  * Site header
