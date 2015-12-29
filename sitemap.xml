@@ -8,7 +8,7 @@ exclude: 'yes'
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
+      <loc>http://blog.chikeorjih.com{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
         <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif post.date %}
