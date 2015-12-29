@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Culinaria Peanut Butter Cup"
+title:  "Culinaria Peanut Butter Cup Review"
 date:   2015-12-28 00:12:00 -0600
 tags:
 - ice-cream
