@@ -2,7 +2,7 @@
 layout: post
 title:  "The Expanse Review"
 date:   2015-12-29
-tags: tv syfy
+tags: tv syfy sci-fi
 categories: tv
 post-type: TV
 ---
