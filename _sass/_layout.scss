@@ -6,6 +6,7 @@ $base-text: #616161;
 $tag-blue: #0F79BB;
 $tag-burgundy: #774444;
 $tag-orange: #DA8321;
+$tag-navy: #005D98;
 $image-caption: #a2a2a2;
 $blockquotes: #4384d8;
 $link-color: #2a7ae2;
@@ -29,7 +30,7 @@ p {
 }
 
 span {
-  &.movies, &.ice-cream, &.food {
+  &.movies, &.ice-cream, &.food, &.tv {
     color: #ffffff;
     padding: 4px 10px;
     font-size: 10px;
@@ -49,6 +50,10 @@ span {
 
   &.food {
     background: $tag-orange;
+  }
+
+  &.tv {
+    background: $tag-navy;
   }
 }
 
