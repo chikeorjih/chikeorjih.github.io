@@ -24,7 +24,7 @@ html {
   background: $bkg-gray;
 }
 
-p {
+p, ul, ol {
   color: $base-text;
   font-size: 14px;
 }
@@ -95,6 +95,28 @@ blockquote {
   &:hover {
     text-decoration: none;
   }
+}
+
+.ice-cream-list {
+  list-style-type: upper-alpha;
+  font-weight: bold;
+
+  li p{
+    font-weight: normal;
+    margin: 0;
+  }
+}
+
+.recipe {
+  margin-bottom: 10px;
+
+  p {
+    margin: 0;
+  }
+}
+
+h4.margined {
+  margin-top: 50px;
 }
 
 // Category pages
@@ -456,7 +478,7 @@ blockquote {
 
     h3 {
         font-size: 20px;
-        margin: 20px 0 5px;
+        margin: 30px 0 10px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -468,7 +490,7 @@ blockquote {
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 16px;
 
         @include media-query($on-laptop) {
             font-size: 18px;

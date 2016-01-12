@@ -6,7 +6,9 @@ permalink: /icecream/
 {% assign icecream-posts = site.array %}
 {% for post in site.posts %}
   {% if post.categories contains 'ice-cream' %}
-    {% assign icecream-posts = icecream-posts | push: post %}
+    {% if post.rating %}
+      {% assign icecream-posts = icecream-posts | push: post %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
