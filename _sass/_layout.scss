@@ -166,8 +166,9 @@ h4.margined {
 
 //Social media
 .social-media {
-  margin:0;
+  margin:60px 0 0;
   text-align: center;
+  color: #bbbbbb;
 
   li {
     list-style: none;
@@ -180,6 +181,10 @@ h4.margined {
     margin-right:5px;
     color: #1494D4;
     font-size: 14px;
+  }
+
+  a {
+    color: #698BB9;
   }
 }
 
