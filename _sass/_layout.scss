@@ -164,6 +164,25 @@ h4.margined {
   }
 }
 
+//Social media
+.social-media {
+  margin:0;
+  text-align: center;
+
+  li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 12px;
+  }
+
+  i {
+    margin-right:5px;
+    color: #1494D4;
+    font-size: 14px;
+  }
+}
+
 
 /**
  * Site header

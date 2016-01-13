@@ -9,6 +9,9 @@ categories:
 - ice-cream
 post-type:
 - Ice Cream
+image: /assets/img/ice_cream/homemade-vanilla1.jpg
+description:
+- A few days ago one of my friends read this blog and asked me if all I did all day was eat ice cream and watch Star Wars. Man, wouldn't that be the life? Sadly, while this isn't how I spend most of my time, I decided to write a new post that will not help me with his perception of my free time. Welcome to my homemade vanilla ice cream taste test.
 ---
 {% include post-image.html url="/assets/img/ice_cream/homemade-vanilla1.jpg" description="Mmmmmm!" %}
 A few days ago one of my friends read this blog and asked me if all I did all day was eat ice cream and watch Star Wars. Man, wouldn't that be the life? Sadly, while this isn't how I spend most of my time, I decided to write a new post that will not help me with his perception of my free time. Welcome to my homemade vanilla ice cream taste test.
