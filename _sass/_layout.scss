@@ -29,6 +29,36 @@ p, ul, ol {
   font-size: 14px;
 }
 
+.post ul {
+  list-style: none;
+  padding:0;
+  margin:0;
+
+  li {
+    padding-left: 10px;
+    text-indent: -6px;
+  }
+
+  li:before {
+    font-family: FontAwesome;
+    content: "\f18e";
+    color: #ED6B01;
+    margin-right: 10px;
+  }
+}
+
+.post ol {
+  li {
+    color: #ED6B01;
+    font-weight: bold;
+
+    span {
+      font-weight: normal;
+      color: $base-text;
+    }
+  }
+}
+
 span {
   &.movies, &.ice-cream, &.food, &.tv {
     color: #ffffff;
