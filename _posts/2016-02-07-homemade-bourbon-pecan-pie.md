@@ -65,10 +65,12 @@ Makes approximately 1 quart:
 
 
 ###Directions
+
 {% include post-image.html url="/assets/img/ice_cream/homemade-bourbon-pecan-pie2.jpg" description="Baking up some mix-ins" %}
 It goes with out saying, but you will need an ice cream maker for this.
 
 ####Pecan bar(for mix-in)
+
 1. <span>Combine flour, graham cracker crumbs, baking soda, baking powder and salt in a bowl</span>
 2. <span>Whisk sugar, egg, vanilla extract and softened butter together</span>
 3. <span>Combine wet and dry ingredients together and stir until it forms a batter</span>
@@ -79,12 +81,14 @@ It goes with out saying, but you will need an ice cream maker for this.
 8. <span>Refrigerate overnight then chop into pieces</span>
 
 ####Pecans
+
 1. <span>Put pecan pieces and bourbon in container and let the pecans soak in the bourbon for at least 10 minutes</span>
 2. <span>Roast pecans in a skillet until they start to turn dark</span>
 3. <span>Pour remaining pie filling on pecans and toss for about 1 minute or until they start to caramelize. Do not burn.</span>
 8. <span>Refrigerate overnight</span>
 
 ####Base
+
 1. <span>Combine ½ cup of milk and 1½ cup of cream in a pot and simmer on medium low heat.</span>
 2. <span>Combine the remaining milk and cream (½ and ½) in a bowl and chill.</span>
 3. <span>Melt the butter in a pot and let it start to brown</span>
@@ -99,6 +103,7 @@ It goes with out saying, but you will need an ice cream maker for this.
 12. <span>After churning, fold in mix-ins and freeze</span>
 
 ###How did it turn out?
+
 Off the hook. The base is buttery and sweet with hints of molasses. The pecans are like what you would find in super premium butter pecan ice creams and the chopped up pecan bars really reminded me of pecan pie. The only thing that might need improvement is that the bourbon flavor could come in a little stronger. Feel free to increase the amount of bourbon but be wary of the consequences of too much alcohol in your ice cream(it won't freeze).
 
 {% include rating.html score="9.5" %}
