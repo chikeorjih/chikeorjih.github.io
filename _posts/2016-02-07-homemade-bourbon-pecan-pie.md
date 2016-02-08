@@ -20,7 +20,7 @@ After some trial and error, I finally nailed it. I got a little tired of making 
 ###Ingredients
 Makes approximately 1 quart:
 
-####Base
+Base
 
 * 2 cups heavy cream
 * 1 cup whole milk
@@ -34,14 +34,14 @@ Makes approximately 1 quart:
 
 <br/>
 
-####Pecans
+Pecans
 
 * 4 oz pecan pieces
 * 3 tbsp of bourbon
 
 <br/>
 
-####Pecan bar(for mix-in)
+Pecan bar(for mix-in)
 
 * ½ cup flour
 * 2 tbsp graham cracker crumbs
@@ -55,7 +55,7 @@ Makes approximately 1 quart:
 
 <br/>
 
-####Pecan bar filling
+Pecan bar filling
 
 * 2 tbsp of butter
 * ¼ cup brown sugar
@@ -69,7 +69,7 @@ Makes approximately 1 quart:
 {% include post-image.html url="/assets/img/ice_cream/homemade-bourbon-pecan-pie2.jpg" description="Baking up some mix-ins" %}
 It goes with out saying, but you will need an ice cream maker for this.
 
-####Pecan bar(for mix-in)
+Pecan bar(for mix-in)
 
 1. <span>Combine flour, graham cracker crumbs, baking soda, baking powder and salt in a bowl</span>
 2. <span>Whisk sugar, egg, vanilla extract and softened butter together</span>
@@ -80,14 +80,14 @@ It goes with out saying, but you will need an ice cream maker for this.
 7. <span>Bake at 350 degrees for 20-25 minutes</span>
 8. <span>Refrigerate overnight then chop into pieces</span>
 
-####Pecans
+Pecans
 
 1. <span>Put pecan pieces and bourbon in container and let the pecans soak in the bourbon for at least 10 minutes</span>
 2. <span>Roast pecans in a skillet until they start to turn dark</span>
 3. <span>Pour remaining pie filling on pecans and toss for about 1 minute or until they start to caramelize. Do not burn.</span>
 8. <span>Refrigerate overnight</span>
 
-####Base
+Base
 
 1. <span>Combine ½ cup of milk and 1½ cup of cream in a pot and simmer on medium low heat.</span>
 2. <span>Combine the remaining milk and cream (½ and ½) in a bowl and chill.</span>
