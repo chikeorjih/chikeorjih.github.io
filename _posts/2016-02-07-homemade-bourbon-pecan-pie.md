@@ -20,7 +20,7 @@ After some trial and error, I finally nailed it. I got a little tired of making 
 ### Ingredients
 Makes approximately 1 quart:
 
-Base
+#### Base
 
 * 2 cups heavy cream
 * 1 cup whole milk
