@@ -32,7 +32,7 @@ Makes approximately 1 quart:
 
 ###Directions
 {% include post-image.html url="/assets/img/ice_cream/homemade-triple-chocolate2.jpg" description="Cuttin' up some chocolate" %}
-I goes with out saying, but you will need an ice cream maker for this.
+It goes with out saying, but you will need an ice cream maker for this.
 
 1. <span>Combine 1 cup of milk and 1 cup of cream in a pot and simmer on medium low heat.</span>
 2. <span>Combine the remaining milk and cream (½ and ½) in a bowl and chill. I had both in the refrigerator so they were already cold.</span>
