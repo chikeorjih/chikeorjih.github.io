@@ -20,7 +20,7 @@ A few days ago one of my friends read this blog and asked me if all I did all da
 After learning (er...being tolerant) of my love of ice cream, my girlfriend decided to get me an ice cream maker for Christmas (Cuisinart ICE-30BC). Since I had little knowledge of the ice cream making process I decided to brush up on the basics and make a few batches to determine what my go to base flavor will be. I learned quite a lot in the process and ended up experimenting with four different variations on the basic vanilla flavor. Since I am also mildly lactose intolerant (very unfortunate) I also experimented with creating a base that minimizes lactose content while maintain flavor and texture.
 
 
-###The Lineup
+### The Lineup
 {% include post-image.html url="/assets/img/ice_cream/homemade-vanilla6.jpg" description="(A) French custard, (B) French custard - lactose free milk, (C) Philadelphia style,  (D) French custard - 33% cream" %}
 For this little experiment I made a pint of four slightly different recipes. Three are variations of the basic French style vanilla custard while the fourth is a Philadelphia style vanilla ice cream. All batches where frozen for at least 12 hours.
 
@@ -72,11 +72,11 @@ Ice creams from left to right (calories are per 1/2 cup):
 </ol>
 
 
-###The Judges
+### The Judges
 {% include post-image.html url="/assets/img/ice_cream/homemade-vanilla2.jpg" description="The distinguished panel (Rachel, Angela and Josh)" %}
 I convinced(no arm twisting needed) Rachel and her friends Angela and Josh to be my lab rats...eh... judges for this experiment. They did not know the differences between the batches beforehand and while I contemplated hiding the bowls so they couldn't see the color differences, I decided it wasn't necessary.
 
-###The Results
+### The Results
 
 <h4>French Vanilla</h4>
 {% include post-image.html url="/assets/img/ice_cream/homemade-vanilla1.jpg" description="A) French Vanilla" %}
@@ -154,10 +154,10 @@ Thought it was icy much like C, but thought it seemed more "intense"
 Thought it was lighter and comparable to C. Thought the flavor wasn't as strong as C. "Maybe low fat". Not as rich.
 
 
-###Calories
+### Calories
 A quick note on how I calculated the calories for each batch. I added up the calories of all the ingredients and factored in the suspected overrun of my machine.<br /><br />
 **What is overrun?**<br />
 Overrun is a term used in the ice cream industry to measure how much air is churned into a batch of ice cream. Ice cream needs some air to create its creamy texture and without it you would have a block of custard. Most premium brands have an overrun of around 25%. The lesser brands (Edy's, Breyer's...etc) have an overrun above 50% with some approaching 100%. Based on the texture and thickness of my batches I estimated the overrun to be close to that of the premium brands. This was confirmed by [Cook's Illustrated](http://www.cooksillustrated.com/equipment_reviews/1260-ice-cream-makers). They list my machine at 24% overrun. So for example, my first batch had a total of 1253 calories. Multiply that by 0.76 (which is 1 - 0.24) and you get 952. Since the batch is a pint, divide by 4 to get a half cup(the standard serving size in the industry). So my French vanilla has 238 calories per serving which compares favorably to Haagen Das's Vanilla which has 250 calories.
 
-###Final Thoughts
+### Final Thoughts
 So there you have it. My first ice cream taste test. Unsurprisingly, picking the best ice cream is a very subjective thing. Rachel, Josh and I liked the French style custards while Angela like the Philadelphia style. We all agreed that adding eggs to your ice cream gives it a richer, thicker texture. We also agreed that minimizing the amount of heavy cream gives your ice cream a less luxurious profile. We were all impressed with how well the batches turned out. Rachel commented that if I had packed the first two batches into a Ben & Jerry's or Haagen Daz container, she would not have been able to tell the difference. I was also happy that there was no discernable difference between lactose free whole milk and regular whole milk. Because of that, I think batch B will probably be my go to batch.
