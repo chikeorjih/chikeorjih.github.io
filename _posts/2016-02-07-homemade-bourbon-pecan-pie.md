@@ -93,7 +93,7 @@ It goes with out saying, but you will need an ice cream maker for this.
 2. <span>Combine the remaining milk and cream (½ and ½) in a bowl and chill.</span>
 3. <span>Melt the butter in a pot and let it start to brown</span>
 4. <span>Add bourbon to butter, stir for a minute or two then set aside</span>
-5. <span>In a separate bowl, whisk egg yolks, brown sugar, molasses and golden syrup until completely combined and they start to [ribbon](http://www.bhg.com/videos/m/32071630/beating-eggs-until-ribbons.htm)</span>
+5. <span>In a separate bowl, whisk egg yolks, salt, brown sugar, molasses and golden syrup until completely combined and they start to [ribbon](http://www.bhg.com/videos/m/32071630/beating-eggs-until-ribbons.htm)</span>
 6. <span>Temper the egg and sugar mixture with the butter/bourbon mixture by adding a little at a time while simultaneously whisking.</span>
 7. <span>Temper the new mixture with the simmering milk and cream mixture by adding a little at a time while simultaneously whisking.</span>
 8. <span>After tempering at least half of the milk and cream mixture pour everything back into the pot and simmer on low heat. Stir until mixture thickens and it holds a line when you dip a spoon into it and run your finger across(do not overcook)</span>
