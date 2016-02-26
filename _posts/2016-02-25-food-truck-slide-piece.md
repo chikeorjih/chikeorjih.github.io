@@ -25,7 +25,7 @@ Hesitation aside, I walked up and got one lamb slider, one fried green tomato sl
 ### Value
 My biggest issue with this food truck is that it feels like a proof of concept for a swanky burger bar. It doesn't really feel like a food truck food. The price for two burgers and fries was $11. That's pretty steep for a food truck. Most other trucks average around $7 to $8 for a bigger portioned meal. I prefer to spend more money on dinner and not on lunch. The value just wasn't there.
 
-### Going back for again?
+### Going back again?
 Nah. The fried green tomato slider is delicious, other than that it was pretty expensive and underwhelming.
 
 {% include rating.html score="6.5" %}
