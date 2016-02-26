@@ -61,7 +61,7 @@ p, ul, ol {
 }
 
 span {
-  &.movies, &.ice-cream, &.food, &.tv, &.travel{
+  &.movies, &.ice-cream, &.food, &.tv, &.travel, &.food-truck{
     color: #ffffff;
     padding: 4px 10px;
     font-size: 10px;
@@ -89,6 +89,10 @@ span {
 
   &.travel {
     background: $tag-green;
+  }
+
+  &.food-truck {
+    background: $tag-orange;
   }
 }
 
