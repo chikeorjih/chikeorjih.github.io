@@ -8,7 +8,7 @@ tags:
 categories:
 - food-truck
 post-type: Food Truck
-image: /assets/img/ice_cream/culinaria-bp1.jpg
+image: /assets/img/food_trucks/slide-piece1.jpg
 description:
 -
 rating: 6.5
