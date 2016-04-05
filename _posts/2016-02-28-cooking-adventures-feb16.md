@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cooking Adventures: Februray 2016"
+title:  "Cooking Adventures: February 2016"
 date:   2016-02-28
 tags:
 - food
