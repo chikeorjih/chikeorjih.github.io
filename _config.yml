@@ -14,7 +14,7 @@ paginate: 5
 markdown: kramdown
 
 # gems
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-admin]
 
 # other
 array: []
