@@ -78,7 +78,7 @@ The entire story was just an excuse to get William Shatner in the movie.
 
 
 ### 7. Star Trek The Motion Picture
-{% include post-image.html url="/assets/img/movies/trek-movies7.jpg" description="Captain, I believe we used to much beige." %}
+{% include post-image.html url="/assets/img/movies/trek-movies7.jpg" description="Captain, I believe we used too much beige." %}
 Here's the thing. This movie has a lot of things that I associate with good Star Trek. It has an interesting plot. It is thought provoking and it has pretty awesome visuals. It is also very long, and sometimes boring. V'ger, is a worthy Star Trek villain. It shares some similarities to one of my favorite Star Trek villains, the Borg. It's a shame that the film was paced so poorly. It needed much better editing. I like a lot about it but its just too much of a time commitment to sit trough sometimes.
 
 #### What worked
@@ -157,7 +157,7 @@ Spock and Valeris' mind meld was a little disturbing.
 
 
 ### 1. Star Trek First Contact
-{% include post-image.html url="/assets/img/movies/trek-movies13.jpg" description="Guess where the line will be drawn?" %}
+{% include post-image.html url="/assets/img/movies/trek-movies13.jpg" description="Guess where the line must be drawn?" %}
 What can I say. I love *First Contact*. It's a movie that both a trekkie and someone who knows little about star trek can enjoy. It has the right balance of action and story. The stakes are massive and the villains are as intimidating as they come. Picard and the crew are in their prime. Almost everything about this movie worked. It introduced a historical moment that most trek fans didn't know they would care about. Sure, it's another time travel story, but it was time travel done right. *First Contact* is truly the pinnacle of Star Trek on the big screen.
 
 #### What worked
