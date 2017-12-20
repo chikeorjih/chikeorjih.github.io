@@ -25,9 +25,9 @@ While the movie was largely satisfying, there were a few misses. I felt that Cap
 
 Even with its few misses, I think this new entry into the Star Wars universe will hold up nicely as time goes by. It might be the kind of movie I end up liking more each time I watch it. It certainly does a lot more right than it does wrong.
 
->December 2017 - I have revised my score from 8.5 to 7.5
+>December 2017 - I have revised my score from 8.5 to 8
 
 Yeah, this movie has lost some of its luster after rewatching it a few times. It's still pretty entertaining, but it is such a retread of A New Hope that I have to bump it down a notch.
 
 
-{% include rating.html score="7.5" %}
+{% include rating.html score="8" %}
